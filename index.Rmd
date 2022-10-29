@@ -1,0 +1,38 @@
+---
+title: "R basics to advanced"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
+# **R-Course by: Max Ullrich**
+
+In this course we will go through all things R and RStudio, so that you will be able to do everything from simple statistical tests to handling big data, doing methylation analysis and possibly even some machine learning/AI.
+
+## How to get started
+
+1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
+
+2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
+
+3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
+
+4. Change everything to make it your own.
+
+
+</div>
+<div class="col-sm-6">
+</a>
+</div>
