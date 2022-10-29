@@ -34,5 +34,10 @@ In this course we will go through all things R and RStudio, so that you will be 
 
 </div>
 <div class="col-sm-6">
+
+<a href = "https://crumplab.github.io">
+![](images/RvP.jpg)
+</a>
+
 </a>
 </div>
