@@ -23,13 +23,16 @@ In this course we will go through all things R and RStudio, so that you will be 
 
 ## How to get started
 
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
+1. Download and Install R: https://www.r-project.org/
 
-2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
+2. Download and install R-Studio (you must install R first): https://www.rstudio.com/
 
-3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
+3. 
 
-4. Change everything to make it your own.
+
+See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
+
+4. 
 
 
 </div>
